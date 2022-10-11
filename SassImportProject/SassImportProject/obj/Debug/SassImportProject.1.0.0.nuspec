@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SassImportProject</id>
+    <version>1.0.0</version>
+    <authors>SassImportProject</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\91875\Desktop\Gartner\SassImportProject\SassImportProject\bin\Debug\net6.0\SassImportProject.runtimeconfig.json" target="lib\net6.0\SassImportProject.runtimeconfig.json" />
+    <file src="C:\Users\91875\Desktop\Gartner\SassImportProject\SassImportProject\bin\Debug\net6.0\SassImportProject.dll" target="lib\net6.0\SassImportProject.dll" />
+  </files>
+</package>
